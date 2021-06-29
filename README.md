@@ -11,7 +11,7 @@
 - 💬 Ask me about anything I am happy to help 
 - 📫 How to reach me: [dixaab44@gmail.com](dixaab44@gmail.com)
 - 😄 Pronouns: a Scholer and Programmer
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am an artist
 # Skills:
 
 **Languages**
