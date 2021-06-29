@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I am Abhishek, enthusiast to learn about new technologies. I have started my journey with python. now I am focusing on learning more and more.
+#### I am Abhishek, an enthusiast to learn about new technologies. I was started my journey with python. Kivy is my favorite framework.
 
  ## ✨Talking about Personal Stuffs:✨
 
