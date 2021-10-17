@@ -22,3 +22,6 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-op&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://Tejas1510.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-op&count_private=true" align="center"/>
+</a>
