@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on python, kivy, android, java, web-development
 - 🌱 I’m currently learning new languages
 - 💬 Ask me about anything I am happy to help 
-- 📫 How to reach me: [dixaab44@gmail.com](dixaab44@gmail.com)
+- 📫 How to reach me: abhishekdixit9260@gmail.com
 - 😄 Pronouns: a Scholer and Programmer
 - ⚡ Fun fact: I am an artist
 # Skills:
